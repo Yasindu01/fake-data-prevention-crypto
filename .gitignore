@@ -1,0 +1,6 @@
+keys/
+certs/
+__pycache__/
+*.pyc
+defense.pdf
+test_results.txt
